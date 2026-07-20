@@ -9,7 +9,11 @@ I'm currently learning how to code and building new projects along the way. I'm 
 
 🛠️ Skills
 Engineering
+
+
 Python
+
+
 Design and Drawing
 
 📫 Connect With Me
