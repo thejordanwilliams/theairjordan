@@ -8,6 +8,7 @@ About Me
 I'm currently learning how to code and building new projects along the way. I'm excited to keep growing my skills and taking on new challenges as I learn.
 
 🛠️ Skills
+
 Engineering
 
 
