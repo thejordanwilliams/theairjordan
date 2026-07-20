@@ -4,6 +4,8 @@ I'm currently learning how to code and building new projects along the way. I'm 
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=4000&color=001F54&center=true&vCenter=true&width=300&lines=Skills" alt="Skills" /> </p>
 Engineering
+
+
 Python
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=4000&color=001F54&center=true&vCenter=true&width=300&lines=Connect+With+Me" alt="Connect With Me" /> </p>
 Email: jordanpnce@gmail.com
